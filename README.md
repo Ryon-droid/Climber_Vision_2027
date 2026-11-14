@@ -1,6 +1,6 @@
 # Climber_Vision_2027 自瞄工作空间
 
-RoboMaster 2027 赛季小弹丸步兵视觉代码仓库：[Ryon-droid/Climber_Vision_2027](https://github.com/Ryon-droid/Climber_Vision_2027)，使用 `main` 分支管理新赛季代码。
+RoboMaster 2027 赛季小弹丸步兵视觉代码。
 
 ## 前言
 
