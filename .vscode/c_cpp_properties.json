@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Climber_Vision_2026",
+            "name": "Climber_Vision_2027",
             "forcedInclude": [
                 "${workspaceFolder}/.vscode/eigen_fix.h"
             ],

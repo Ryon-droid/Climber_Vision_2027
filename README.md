@@ -1,4 +1,6 @@
-# Climber_Vision_2026 自瞄工作空间
+# Climber_Vision_2027 自瞄工作空间
+
+RoboMaster 2027 赛季视觉代码仓库：[Ryon-droid/Climber_Vision_2027](https://github.com/Ryon-droid/Climber_Vision_2027)。`main` 分支管理小弹丸步兵视觉代码，`hero` 分支管理英雄视觉代码。
 
 ## 前言
 
@@ -254,7 +256,7 @@ python3 scripts/adjust_gimbal_offset.py
 ## 9. 文件结构
 
 ```
-Climber_Vision_2026
+Climber_Vision_2027
 ├── assets/              # 模型权重等资源文件
 ├── calibration/         # 相机内参标定、手眼标定、串口延迟测试
 ├── configs/             # 各兵种 YAML 配置文件
